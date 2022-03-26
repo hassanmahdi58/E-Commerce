@@ -35,4 +35,17 @@ THEN I am able to successfully create, update, and delete data in my database
 ![Screenshot 2022-03-26 003916](https://user-images.githubusercontent.com/94930434/160217738-7f2ec7eb-e798-4daf-adcb-6e32f527024e.png)
 # Demo Link 
  Walkthrough video  : https://youtu.be/PbPplBWGuRU
+# Installation
+
+```md
+
+1- Clone the Repository.
+2- Create a file name ".env" to the root folder.
+3- Add to ".env" file DB_NAME='database name' , DB_USER='your username' , DB_PW='your password'.
+4- Run npm install in the terminal.
+5- Run npm run seed.
+6- Run Node your server file name .js.
+
+'''
+
 
