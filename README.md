@@ -27,7 +27,7 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
-## MOCK - UP
+## Mock-Up
 * The following shows the API Get routes for categories . products and tags with in Insomnia.
 
 ![Screenshot 2022-03-26 004006](https://user-images.githubusercontent.com/94930434/160217736-e32b0531-975a-4153-92d6-43f101dcbe27.png)
@@ -45,7 +45,10 @@ THEN I am able to successfully create, update, and delete data in my database
 4- Run npm install in the terminal.
 5- Run npm run seed.
 6- Run Node your server file name .js.
+```
 
-'''
+# Contact 
 
+Email - hassanmahdi58@gmail.com
+Github - https://github.com/hassanmahdi58
 
